@@ -22,6 +22,9 @@ Upon running the script, you will be prompted to enter a password. The tool will
 The tool will provide feedback on the strength of the password based on these criteria.
 
 #Example
+
+
+
 ![image](https://github.com/osamma1/Password-Strength-Checker-/assets/155220658/c09a1c5e-d7bc-4a82-9299-cd5429aa6da5)
 
 
